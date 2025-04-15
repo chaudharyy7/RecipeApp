@@ -35,6 +35,7 @@ Run the app on your emulator or physical device.
 
 ## 🧠 Developer
 **Vimal Chaudhary**
+
 📧 vimal07chaudhary@gmail.com
 
 ## 🤝 Contributing
