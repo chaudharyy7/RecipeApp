@@ -20,27 +20,22 @@ An elegant and intuitive Android application that allows users to browse and sea
 - **ViewBinding** - UI interactions
 - **Intent Navigation** - Screen transitions with data passing
 
-## 📸 Screenshots
 
-> *Add screenshots here if available*
+## 🔧 Setup Instructions
+**Clone the repository**
 
-## 📂 Project Structure
+``git clone https://github.com/chaudharyy7/RecipeApp.git``
+``cd RecipeApp``
 
-```plaintext
-├── HomeActivity.kt
-├── SearchActivity.kt
-├── CategoryActivity.kt
-├── adapters/
-│   ├── PopularAdapter.kt
-│   ├── CategoryAdapter.kt
-│   └── SearchAdapter.kt
-├── data/
-│   ├── Recipe.kt
-│   ├── Dao.kt
-│   └── AppDatabase.kt
-├── assets/
-│   └── recipe.db
-├── res/
-│   ├── layout/
-│   └── drawable/
-└── AndroidManifest.xml
+
+**Ensure this file exists**
+assets``/recipe.db`` - The preloaded SQLite database.
+
+Run the app on your emulator or physical device.
+
+## 🧠 Developer
+**Vimal Chaudhary**
+📧 vimal07chaudhary@gmail.com
+
+## 🤝 Contributing
+Pull requests are welcome. Feel free to open issues or suggest features!
